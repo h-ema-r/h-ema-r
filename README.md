@@ -3,6 +3,7 @@
 - Final year undergraduate **Computer Science Engineering** with specialization in **Artificial Intelligence and Machine Learning.**<br>
 [Data Engineering, Big Data, and Machine Learning on GCP](https://coursera.org/share/9ed118558868c6d809979677d4c44240)<br>
 [Create Machine Learning Models in Microsoft Azure](https://coursera.org/share/e2e0013a0ce59edaa4b3d1f0194ad6c6)
+[Introduction to Machine Learning in Production](https://coursera.org/share/c3000e097c3bb6c8bb7dc7875d701c8a)
 
 
 <!--
