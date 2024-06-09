@@ -9,7 +9,8 @@
 [Deploying Machine Learning Models in Production](https://coursera.org/share/c9c1fc81df30d335e01ade07cf0f9980)
 
 <br>
-![GitHub Views](https://komarev.com/ghpvc/?username=h-ema-r)
+![Profile Views](https://github-readme-stats.vercel.app/api?username=h-ema-r&count_private=true&show_icons=true)
+
 
 
 
