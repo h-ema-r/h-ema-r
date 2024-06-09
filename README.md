@@ -9,7 +9,7 @@
 [Deploying Machine Learning Models in Production](https://coursera.org/share/c9c1fc81df30d335e01ade07cf0f9980)
 
 <br>
-![Profile Views](https://img.shields.io/badge/Profile%20Views-100-blue)
+
 
 
 
