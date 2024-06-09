@@ -9,7 +9,7 @@
 [Deploying Machine Learning Models in Production](https://coursera.org/share/c9c1fc81df30d335e01ade07cf0f9980)
 
 <br>
-![Profile view counter on Github](https://github.com/h-ema-r/h-ema-r)
+[Profile view counter on Github](https://github.com/h-ema-r/h-ema-r)
 
 
 <!--
